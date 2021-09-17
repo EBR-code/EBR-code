@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&color=3BF6F7&size=16&lines=Self-taught+Web+Developer.;Always+learning+new+technologies.;Former+Chef.;Welcome+to+my+Profile.)](https://git.io/typing-svg)
 
 
----
-
 ## 🛠 Tools
 
 ### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47b68o7om0bh92pzvnz6jr1qmju8k1y15aoxl799ol&rid=giphy.gif&ct=s" width="28">  Languages
