@@ -1,6 +1,6 @@
-# Hello, I'm Edson
+# Hello, I'm Edson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-## a Junior Web Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&color=3BF6F7&vCenter=true&lines=Self-taught+Web+Developer.;Seth's+Father.;Always+learning+new+technologies.)](https://git.io/typing-svg)
 
 
 ---
