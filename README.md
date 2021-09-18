@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&color=3BF6F7&size=16&lines=Self-taught+Web+Developer.;Always+learning+new+technologies.;Former+Chef.;Welcome+to+my+Profile.)](https://git.io/typing-svg)
 
 
-## 🛠 Tools
+## 🛠 Technologies
 
 ### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47b68o7om0bh92pzvnz6jr1qmju8k1y15aoxl799ol&rid=giphy.gif&ct=s" width="28">  Languages
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
