@@ -26,8 +26,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Edson GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyDaddy&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyDaddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+![Edson GitHub stats](https://github-readme-stats.vercel.app/api?username=EBR-code&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EBR-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
 
 
 
