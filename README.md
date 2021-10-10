@@ -1,6 +1,6 @@
 ## Hello, I'm Edson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Victor+Mono&color=%230DA90A&size=36&width=600&height=400&lines=Welcome+to+my+Profile;Self-taught+Developer;Currently+learning+MERN+stack;Former+Chef;Gamer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Victor+Mono&color=%230DA90A&size=36&width=600&height=60&lines=Welcome+to+my+Profile;Self-taught+Developer;Currently+learning+MERN+stack;Former+Chef;Gamer)](https://git.io/typing-svg)
 
 
 ## 🛠 Technologies
