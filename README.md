@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cascadia+code&color=%2343F750&size=36&width=600&lines=Welcome+to+my+Profile!!!;Self-taught+Developer;Learning+MERN+stack)](https://git.io/typing-svg)
 
-#![](https://komarev.com/ghpvc/?username=EBR-code&color=32E0C4)
+
+![](https://komarev.com/ghpvc/?username=EBR-code&color=32E0C4)
+
 ## 🛠 Technologies
 
 ### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47b68o7om0bh92pzvnz6jr1qmju8k1y15aoxl799ol&rid=giphy.gif&ct=s" width="28">  Languages
